@@ -63,6 +63,8 @@
                         <li id="tabServicos"><a href="#tab3" data-toggle="tab">Serviços</a></li>
                         <li id="tabAnexos"><a href="#tab4" data-toggle="tab">Anexos</a></li>
                         <li id="tabAnotacoes"><a href="#tab5" data-toggle="tab">Anotações</a></li>
+		</div>
+            </div>
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane active" id="tab1">
