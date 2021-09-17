@@ -1,6 +1,6 @@
 <?php
 
-$config['protocol']         = 'smtp';
+$config['protocol']         = 'smtps';
 $config['smtp_host']        = 'smtp.gmail.com';
 $config['smtp_crypto']      = 'tls'; // tls or ssl
 $config['smtp_port']        = 587;
